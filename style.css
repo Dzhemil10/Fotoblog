@@ -1,0 +1,11 @@
+:root {
+    --background: rgb(255, 0, 0);
+    --text-color: #626262;
+    --menu-color: #7D7D7D;
+    --title-color: #626262;
+    --subtitle-color: #B4AD9E;
+    --accent-color: #03A9F4;
+}
+body {
+    background-color: var(--background);
+}
